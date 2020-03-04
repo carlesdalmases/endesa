@@ -1,0 +1,19 @@
+{
+  "name": "endesacsv_influxdb",
+  "version": "1.0.0",
+  "description": "Conversor de CSV d'ENDESA a InfluxDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carles Dalmases",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.3.1",
+    "date-fns": "^2.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
